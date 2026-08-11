@@ -9,10 +9,10 @@ This program calculates the distance between two points using their x and y coor
 3. Enter the required coordinates
 
 ## Input Needed
-X1- enter X1 coordinates
-Y1- enter Y1 coordinates
-X2- enter X2 coordinates
-Y2- enter Y2 coordinates
+X1- enter first coordinate of x
+Y1- enter first coordinate of y
+X2- enter second coordinate of x
+Y2- enter second coordinate of y
 
 ## Sample Output
 The distance between two points is 7.07
